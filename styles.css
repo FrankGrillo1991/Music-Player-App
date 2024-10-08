@@ -56,3 +56,9 @@ body {
     border: 1px solid #ddd;
     padding: 10px;
 }
+
+#playlist li {
+    padding: 10px;
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+}
