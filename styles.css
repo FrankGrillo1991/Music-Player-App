@@ -62,3 +62,7 @@ body {
     background: #fff;
     border-bottom: 1px solid #ddd;
 }
+
+#playlist li:last-child {
+    border-bottom: none;
+}
