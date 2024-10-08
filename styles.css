@@ -66,3 +66,22 @@ body {
 #playlist li:last-child {
     border-bottom: none;
 }
+
+#playlist li:hover, #playlist li.playing {
+    background: #ff9800;
+    color: #fff;
+    cursor: pointer;
+}
+
+/* Responsive Media Queries */
+@media (max-width: 600px) {
+    .player {
+        width: auto;
+        padding: 10px;
+    }
+
+    .controls button {
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+}
