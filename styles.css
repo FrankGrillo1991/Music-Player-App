@@ -48,3 +48,11 @@ body {
     height: 10px;
     width: 0%;
 }
+
+/* Playlist Styles */
+.playlist {
+    margin-top: 20px;
+    background: #f7f7f7;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
