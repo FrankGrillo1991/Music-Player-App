@@ -1,0 +1,1 @@
+Music Player App developed with HTML, CSS & JavaScript
